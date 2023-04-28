@@ -1,0 +1,43 @@
+
+main {
+    max-width: 1030px;
+    margin: auto;
+}
+
+.image {
+    width: 100px;
+    float: left;
+    margin: 0 25px 20px 0;
+    margin: auto;
+    margin: 0 20px 20px 0;
+}
+
+section {
+    display: flex;
+    justify-content:space-around;
+}
+
+.aboutMe {
+    margin: 100px;
+    height: 100%;
+    display: block;
+    max-width: 830px;
+}
+
+
+h2 {
+    margin-bottom: 50px;
+}
+
+footer {
+    bottom: 0;
+}
+
+.writtenContent {
+    margin-bottom: 200px;
+}
+
+section div {
+    display: block;
+    margin-bottom: 200px;
+}
