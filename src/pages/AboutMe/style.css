@@ -31,11 +31,14 @@ h2 {
 
 footer {
     bottom: 0;
+    /* background-color: red; */
 }
 
 .writtenContent {
     margin-bottom: 200px;
+    text-align: justify;
 }
+
 
 section div {
     display: block;

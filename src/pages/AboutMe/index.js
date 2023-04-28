@@ -17,7 +17,7 @@ function AboutMe() {
           <article>
              <img src={myPicture} alt="myPicture" className="image" />
              <h3>Hello, and welcome to my portfolio!</h3>
-<p className="writtenontent"> 
+<p className="writtenContent"> 
 
     <br></br>
     <p>

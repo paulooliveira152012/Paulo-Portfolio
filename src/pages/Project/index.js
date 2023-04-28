@@ -34,7 +34,6 @@ function Project () {
               <div class="title">ListenUp</div>
             </a>
             </li>
-          
           </ul>
         </div>
     )

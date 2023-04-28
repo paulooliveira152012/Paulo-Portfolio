@@ -1,13 +1,20 @@
 .portfolio {
-    margin: 100px;
+    /* background-color: aliceblue; */
+    margin: 100px 20px;
     display: block;
-    height: 300px;
+    height: 100%;
 }
 
 ul {
     list-style: none;
     display: flex;
     height: 100%;
+}
+
+.portfolio ul {
+    /* background-color: red; */
+    flex-wrap: wrap;
+    width: 100%;
 }
 
 .portfolio li {
