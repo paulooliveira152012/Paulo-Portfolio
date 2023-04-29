@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Paulo-Portfolio/static/css/main.f59d3141.css",
-    "main.js": "/Paulo-Portfolio/static/js/main.fe8353e3.js",
+    "main.css": "/Paulo-Portfolio/static/css/main.efba0a91.css",
+    "main.js": "/Paulo-Portfolio/static/js/main.1c92fd69.js",
     "static/js/787.a2cb61a6.chunk.js": "/Paulo-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/horiseon.jpg": "/Paulo-Portfolio/static/media/horiseon.c672fcf0b6bd0c33ff16.jpg",
     "static/media/myPicture.jpg": "/Paulo-Portfolio/static/media/myPicture.c26de084a715c2eb9d3b.jpg",
     "static/media/runbuddy.jpeg": "/Paulo-Portfolio/static/media/runbuddy.8a288c26fe5b4e4d03a0.jpeg",
     "static/media/avatar.jpg": "/Paulo-Portfolio/static/media/avatar.5e849db10f85c6dcb30f.jpg",
     "static/media/NEE.jpeg": "/Paulo-Portfolio/static/media/NEE.1f8ae3c5e44f709eaa68.jpeg",
-    "static/media/Paulo_resume.pdf": "/Paulo-Portfolio/static/media/Paulo_resume.c289d43fc409a82f4638.pdf",
+    "static/media/Paulo_resume.pdf": "/Paulo-Portfolio/static/media/Paulo_resume.b183e9f921041eb8d486.pdf",
     "static/media/listenup.png": "/Paulo-Portfolio/static/media/listenup.ff9daec985204df8fa75.png",
     "index.html": "/Paulo-Portfolio/index.html",
-    "main.f59d3141.css.map": "/Paulo-Portfolio/static/css/main.f59d3141.css.map",
-    "main.fe8353e3.js.map": "/Paulo-Portfolio/static/js/main.fe8353e3.js.map",
+    "main.efba0a91.css.map": "/Paulo-Portfolio/static/css/main.efba0a91.css.map",
+    "main.1c92fd69.js.map": "/Paulo-Portfolio/static/js/main.1c92fd69.js.map",
     "787.a2cb61a6.chunk.js.map": "/Paulo-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f59d3141.css",
-    "static/js/main.fe8353e3.js"
+    "static/css/main.efba0a91.css",
+    "static/js/main.1c92fd69.js"
   ]
 }
