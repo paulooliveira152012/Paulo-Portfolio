@@ -119,7 +119,7 @@ ul {
     .title1 {
         /* background-color: transparent; */
         position: absolute;
-        right: 5px;
+        /* right: 5px; */
         bottom: 0px;
         color: white;
         font-weight: 800;
