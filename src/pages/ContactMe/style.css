@@ -47,4 +47,12 @@ button {
         margin-top: 150px;
         margin-bottom: 200px;
     }
+
+    form input {
+        width: 90%;
+    }
+
+    form textarea {
+        width: 90%;
+    }
 }
