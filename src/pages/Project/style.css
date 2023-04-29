@@ -9,12 +9,17 @@ ul {
     list-style: none;
     display: flex;
     height: 100%;
+    width: auto
+    /* justify-content: space-around; */
 }
+
+
 
 .portfolio ul {
     /* background-color: red; */
     flex-wrap: wrap;
     width: 100%;
+    justify-content: space-evenly;
 }
 
 .portfolio li {
@@ -55,6 +60,7 @@ ul {
     background-color: red;
     /* width: 100%; */
     position: relative;
+    margin: 20px;
 }
 
 .portfolio li {
@@ -64,9 +70,10 @@ ul {
 }
 
 .title1 {
-    background-color: transparent;
+    background-color: black;
     position: absolute;
-    right: 5px;
+    padding: 2px;
+    right: 0px;
     bottom: 0px;
     color: white;
     font-weight: 800;
