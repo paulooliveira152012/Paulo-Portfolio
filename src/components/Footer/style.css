@@ -61,11 +61,21 @@ footer {
    margin-bottom: 50px;
 }
 
-
-
-
-
-
 .footer ul {
    list-style: none;
+}
+
+@media screen and (max-width:500px) {
+   
+   footer {
+      width: 100%;
+   }
+
+   .socialMedia {
+      flex: 1;
+   }
+
+   .contactInfo {
+      flex: 1;
+   }
 }
