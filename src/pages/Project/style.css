@@ -103,8 +103,6 @@ ul {
 }
 
 
-
-
 @media screen and (max-width: 520px) {
     .container {
         background-color: red;
@@ -119,7 +117,7 @@ ul {
     }
 
     .title1 {
-        background-color: transparent;
+        /* background-color: transparent; */
         position: absolute;
         right: 5px;
         bottom: 0px;
