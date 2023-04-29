@@ -37,10 +37,17 @@ footer {
 .writtenContent {
     margin-bottom: 200px;
     text-align: justify;
+
 }
 
 
 section div {
     display: block;
     margin-bottom: 200px;
+}
+
+@media screen and (max-width: 520px) {
+    .writtenContent {
+        width: 90%;
+    }
 }
