@@ -50,9 +50,54 @@ ul {
     background-size: cover;
 }
 
+
+.container {
+    background-color: red;
+    /* width: 100%; */
+    position: relative;
+}
+
+.portfolio li {
+    display: block;
+    /* width: 100%; */
+    margin: auto;  /*makes image occupy 100% space*/
+}
+
+.title1 {
+    background-color: transparent;
+    position: absolute;
+    right: 5px;
+    bottom: 0px;
+    color: white;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+
+
+
 @media screen and (max-width: 520px) {
+    .container {
+        background-color: red;
+        width: 100%;
+        position: relative;
+    }
+
     .portfolio li {
         display: block;
         width: 100%;
+        margin: auto;  /*makes image occupy 100% space*/
     }
+
+    .title1 {
+        background-color: transparent;
+        position: absolute;
+        right: 5px;
+        bottom: 0px;
+        color: white;
+        font-weight: 800;
+        font-size: 20px;
+    }
+
+
 }

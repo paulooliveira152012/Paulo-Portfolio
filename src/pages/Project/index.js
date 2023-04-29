@@ -6,6 +6,17 @@ function Project () {
         <div class="portfolio" id="portfolio">
           <h2>My Portfolio</h2>
           <ul>
+
+            <div className="container">
+            <a href="https://paulooliveira152012.github.io/runBuddy2/"
+            target="_blank"
+            class="project"
+            id="runBuddy"
+            > <li className="runbuddy"></li>
+              <div class="title1">Run Buddy</div>
+            </a>
+            </div>
+
             <li className="runbuddy"> <a
               href="https://paulooliveira152012.github.io/runBuddy2/"
               target="_blank"
@@ -34,6 +45,7 @@ function Project () {
               <div class="title">ListenUp</div>
             </a>
             </li>
+          
           </ul>
         </div>
     )
