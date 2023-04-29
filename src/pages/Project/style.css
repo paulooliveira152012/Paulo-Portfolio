@@ -55,6 +55,28 @@ ul {
     background-size: cover;
 }
 
+.weather {
+    background-image: url(../../assets/images/weather.png);
+    width: 200px;
+    height: 100px;
+    background-size: cover;
+}
+
+.passwordGenerator {
+    background-image: url(../../assets/images/passwordGenerator.png);
+    width: 200px;
+    height: 100px;
+    background-size: cover;
+}
+
+.tictactoe {
+    background-image: url(../../assets/images/tictactoe.png);
+    width: 200px;
+    height: 100px;
+    background-size: cover;
+}
+
+
 
 .container {
     background-color: red;

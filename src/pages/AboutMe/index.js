@@ -9,8 +9,6 @@ function AboutMe() {
 
       <main>
         <section class="aboutMe" id="aboutMe">
-
-        
           <h2>About Me</h2>
         
         <div class="container">

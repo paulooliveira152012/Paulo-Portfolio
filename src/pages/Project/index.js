@@ -29,25 +29,34 @@ function Project () {
             </div>
 
             <div className="container">
-            <a href="https://radiant-sierra-52768.herokuapp.com/"
+            <a href="https://paulooliveira152012.github.io/weather/"
             target="_blank"
             class="project"
-            id="horiseon"
-            > <li className="NEE"></li>
-              <div class="title1">NE Events</div>
+            id="weather"
+            > <li className="weather"></li>
+              <div class="title1">Weather App</div>
             </a>
             </div>
 
             <div className="container">
-            <a href="https://young-shelf-44589.herokuapp.com/"
+            <a href="https://paulooliveira152012.github.io/password_generator/"
             target="_blank"
             class="project"
-            id="horiseon"
-            > <li className="listenup"></li>
-              <div class="title1">ListenUp</div>
+            id="weather"
+            > <li className="passwordGenerator"></li>
+              <div class="title1">Password</div>
             </a>
             </div>
 
+            <div className="container">
+            <a href="https://paulooliveira152012.github.io/tic-tac-toe/"
+            target="_blank"
+            class="project"
+            id="weather"
+            > <li className="tictactoe"></li>
+              <div class="title1">Tic-Tac-Toe</div>
+            </a>
+            </div>
           </ul>
         </div>
     )
