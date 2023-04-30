@@ -7,6 +7,16 @@ function Project () {
           <h2>My Portfolio</h2>
 
           <ul>
+
+          <div className="container">
+            <a href="https://paulooliveira152012.github.io/grads/"
+            target="_blank"
+            class="project"
+            id="grads"
+            > <li className="grads"></li>
+              <div class="title1">Grads</div>
+            </a>
+            </div>
             
             <div className="container">
             <a href="https://paulooliveira152012.github.io/runBuddy2/"

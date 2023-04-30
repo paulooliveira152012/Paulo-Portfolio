@@ -26,6 +26,13 @@ ul {
     margin: 20px;
 }
 
+.grads {
+    background-image: url(../../assets/images//grads.png);
+    width: 200px;
+    height: 100px;
+    background-size: cover;
+}
+
 .runbuddy {
     background-image: url(../../assets/images/runbuddy.jpeg);
     width: 200px;
