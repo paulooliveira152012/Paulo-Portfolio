@@ -1,6 +1,5 @@
 import React from "react";
 import "./style.css";
-import avatar from "../../assets/images/avatar.jpg";
 import myPicture from "../../assets/images/myPicture.jpg"
 
 

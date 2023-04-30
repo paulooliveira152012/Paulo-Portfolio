@@ -11,6 +11,7 @@ function Project () {
           <div className="container">
             <a href="https://paulooliveira152012.github.io/grads/"
             target="_blank"
+            rel="noreferrer"
             class="project"
             id="grads"
             > <li className="grads"></li>
@@ -21,6 +22,7 @@ function Project () {
             <div className="container">
             <a href="https://paulooliveira152012.github.io/runBuddy2/"
             target="_blank"
+            rel="noreferrer"
             class="project"
             id="runBuddy"
             > <li className="runbuddy"></li>
@@ -31,6 +33,7 @@ function Project () {
             <div className="container">
             <a href="https://paulooliveira152012.github.io/horiseon-2-/"
             target="_blank"
+            rel="noreferrer"
             class="project"
             id="horiseon"
             > <li className="horiseon"></li>
@@ -41,6 +44,7 @@ function Project () {
             <div className="container">
             <a href="https://paulooliveira152012.github.io/weather/"
             target="_blank"
+            rel="noreferrer"
             class="project"
             id="weather"
             > <li className="weather"></li>
@@ -51,6 +55,7 @@ function Project () {
             <div className="container">
             <a href="https://paulooliveira152012.github.io/password_generator/"
             target="_blank"
+            rel="noreferrer"
             class="project"
             id="weather"
             > <li className="passwordGenerator"></li>
@@ -61,6 +66,7 @@ function Project () {
             <div className="container">
             <a href="https://paulooliveira152012.github.io/tic-tac-toe/"
             target="_blank"
+            rel="noreferrer"
             class="project"
             id="weather"
             > <li className="tictactoe"></li>
